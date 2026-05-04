@@ -12,10 +12,7 @@ A modern weather forecasting app built using React with glassmorphism UI.
 - React
 - CSS
 - Fetch API
-
-## 📸 Screenshot
-(Add screenshot here)
-
+- 
 ## ▶️ Run Locally
 npm install
 npm start
